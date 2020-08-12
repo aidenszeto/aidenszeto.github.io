@@ -33,7 +33,10 @@
       .exp--lockup{
         position:relative
         }
-        .exp--lockup .circle{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:80%;margin:0 auto;padding:0;list-style:none}.exp--lockup .circle--item{position:absolute;display:none;text-align:center}.exp--lockup .circle--item a{text-decoration:none;color:#858585}.exp--lockup
+        .exp--lockup .circle{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:80%;margin:0 auto;padding:0;list-style:none}.exp--lockup
+
+        .circle--item{position:absolute;display:none;text-align:center}.exp--lockup
+        .circle--item a{text-decoration:none;color:#858585}.exp--lockup
 
         .circle--item-title{margin-top:10px;font-size:12px;font-weight:700;text-transform:uppercase;transition: transform .2s;}.exp--lockup
         .circle--item-title:hover{transform:scale(1.25); color: #fff;}
